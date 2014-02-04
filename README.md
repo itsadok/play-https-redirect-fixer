@@ -19,7 +19,7 @@ Step 1 - Add this to dependencies.yml:
     repositories:
          - itsadok:
             type: http
-            artifact:  https://github.com/itsadok/play-https-redirect-fixer/releases/download/v[revision]/[module]-[revision].zip
+            artifact:  https://dl.dropbox.com/s/3ab9oqh5tgdm9is/[module]-[revision].zip
             contains:
             - itsadok -> *
 
